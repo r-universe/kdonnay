@@ -1,0 +1,10 @@
+[
+  {
+    "package": "geomerge",
+    "oncran": true
+  },
+  {
+    "package": "meltt",
+    "oncran": true
+  }
+]
