@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "geomerge"]
 	path = geomerge
 	url = https://github.com/kdonnay/geomerge
-	shallow = true
-	registered = true
 [submodule "meltt"]
 	path = meltt
 	url = https://github.com/kdonnay/meltt
-	shallow = true
-	registered = true
