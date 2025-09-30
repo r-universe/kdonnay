@@ -8,3 +8,6 @@
 [submodule "meltt"]
 	path = meltt
 	url = https://github.com/kdonnay/meltt
+[submodule "mwa"]
+	path = mwa
+	url = https://github.com/kdonnay/mwa
